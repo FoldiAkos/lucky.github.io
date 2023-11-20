@@ -1,0 +1,100 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+h1{
+    color:#AD5C2F ;
+   
+    text-align: center;
+    font-family: 'Tilt Prism', cursive;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.card-title{
+    text-align: center;
+}
+.card-body{
+    padding: 10px;
+   background-color: #F5BD7B;
+   color: #AD5C2F;
+   font-weight: bold;
+   font-family:Arial, Helvetica, sans-serif;
+
+  
+}
+img{
+    border-radius: 8px;
+}
+
+.navbar{
+    background-color: #AD5C2F;
+}
+#logo{
+    height: 30px;
+    width: 20px;
+}
+#banner{
+   height: 400px;
+    background-image: url("banner-min.jpg");
+    background-position: center center;
+    background-size: cover;
+}
+.ikon{
+    width: 20px;
+}
+footer{
+    background-color: #AD5C2F;
+   
+}
+footer li{
+    list-style-type: none;
+}
+#home{
+    background-image: url("homebg-min-min.jpg");
+    height: 100vh;
+background-attachment: fixed;
+background-position: center center;
+background-size: cover;    
+}
+.container{
+    background-color: #F5BD7B;
+  
+  padding: 1px 0px 0px;
+  
+    
+    }
+#home .intro{
+    color: white;
+    height: 100vh;
+}
+#home .intro .col-md-8{
+    background-color: rgba(0,0,0,0.4);
+}
+hr{
+width: 50%;
+    margin: auto;
+}
+main .container{
+    background-color: none;
+}
+.modal-header, .modal-footer{
+    background-color: #AD5C2F;
+}
+a{
+    text-decoration: none;
+
+}
+.card:hover{
+    box-shadow: 0px 5px #AD5C2F;
+}
+body{
+    background-color: #F5BD7B;
+}
+.blog-img{
+border: 10px solid #1F5B25;
+border-radius: 3px;
+}
+h2{
+    color: #AD5C2F;
+}
+.sorkizart{
+    text-align: justify;
+}
